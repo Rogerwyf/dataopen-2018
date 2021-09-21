@@ -18,5 +18,3 @@ Step 2. Regression
 	x4. Average income in P
 - XGBoost
 - GLM
-
-Conclusion
